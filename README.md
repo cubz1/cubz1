@@ -1,36 +1,27 @@
-# :wave: Bienvenue sur mon profil GitHub
+### Hi, I'm CuBz, currently 18 years old student in computer science, on this github I share my small open source projects, have fun browsing it 
 
-## :rocket: À propos de moi
-Passionné par le développement et les nouvelles technologies, je suis un développeur polyvalent avec une expertise en programmation, bases de données et outils professionnels. Toujours curieux, j'aime explorer de nouvelles technologies et améliorer mes compétences.
+- 🔭 I’m currently working on [MultiEyes](https://multieyes.fr.fr)
+- 📫 How to reach me: [Discord](https://discord.gg/XPzVcsPWUA) / [Mail](tomsch27340@gmail.com)
+- 🥖 I live and study in Rouen (France)
 
-## :computer: Compétences
 
-### :desktop: Programmation
-- HTML, CSS, JavaScript
-- PHP, Symfony, Laravel, React
-- Python
-- C#
+## 🌍 Programming languages:
+[![progLang](https://skillicons.dev/icons?i=js,html,css,js,py,cs,php,py,nodejs,lua,dotnet,laravel,react,symfony,wordpress,github,git&theme=dark)](https://github.com/cubz1)
 
-### :file_cabinet: Bases de données
-- SQL, MySQL, SQLServer, NoSQL
-- Transact-SQL, UML, Merise
-- Procédures stockées, Triggers
 
-### :tools: Outils & Logiciels
-- **Bureautique** : Excel, Word, PowerPoint
-- **Gestion de projet** : Trello, Mindview, Gantt, Scrum
-- **Systèmes d'exploitation** : Windows, Linux (Kali, Ubuntu)
-- **Développement** : Visual Studio, Visual Studio Code
-- **Virtualisation** : VirtualBox
-- **Design & Multimédia** : Adobe Photoshop, Lightroom, Bridge
-- **Montage vidéo & audio** : Sony Vegas Pro, FL Studio
+## ⚙️ Tools:
 
-## :scroll: Certifications
-- RGPD
-- PIX
-- ANSSI
+  [![tools](https://skillicons.dev/icons?i=vscode,visualstudio,idea&theme=dark)](https://github.com/cubz1)
+    
+  
+## 📦 Databases:
+ [![databases](https://skillicons.dev/icons?i=mysql,sqlserver&theme=dark)](https://github.com/cubz1)
 
-## :mailbox: Me contacter
-:e_mail: Email : **developement@cubz.yt**
-
-N'hésitez pas à explorer mes projets et à collaborer avec moi ! :rocket:
+## 🔧 OS :
+ ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+ ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+ 
+## 🚩 Projects:
+  | Name             | Link                              | Description                                                            |
+  |------------------|-----------------------------------|------------------------------------------------------------------------|
+  | MultiEyes       | https://multieyes.fr.nf            | A discord bot                         |
