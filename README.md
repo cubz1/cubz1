@@ -1,7 +1,7 @@
 ### Hi, I'm CuBz, currently 18 years old student in computer science, on this github I share my small open source projects, have fun browsing it 
 
 - 🔭 I’m currently working on [MultiEyes](https://multieyes.fr.fr)
-- 📫 How to reach me: [Discord](https://discord.gg/XPzVcsPWUA) / [Mail](tomsch27340@gmail.com)
+- 📫 How to reach me: [Discord](https://discord.gg/XPzVcsPWUA) / [Mail](developpement@cubz.yt)
 - 🥖 I live and study in Rouen (France)
 
 
