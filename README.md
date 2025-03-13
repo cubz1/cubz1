@@ -6,7 +6,7 @@
 
 
 ## 🌍 Programming languages:
-[![progLang](https://skillicons.dev/icons?i=html,css,js,py,cs,php,py,nodejs,lua,dotnet,laravel,react,symfony,wordpress,github,git&theme=dark)](https://github.com/cubz1)
+[![progLang](https://skillicons.dev/icons?i=html,css,js,cs,php,py,nodejs,lua,dotnet,laravel,react,symfony,wordpress,github,git&theme=dark)](https://github.com/cubz1)
 
 
 ## ⚙️ Tools:
