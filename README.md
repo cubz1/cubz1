@@ -1,4 +1,4 @@
-### Hi, I'm CuBz, currently 20 years old student in computer science, on this github I share my small open source projects, have fun browsing it 
+### Hi, I'm CuBz, currently 21 years old student in computer science, on this github I share my small open source projects, have fun browsing it 
 
 - 🔭 I’m currently working on [MultiEyes](https://multieyes.fr.fr)
 - 📫 How to reach me: [Discord](https://discord.gg/XPzVcsPWUA) / [Mail](developpement@cubz.yt)
